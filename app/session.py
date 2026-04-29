@@ -200,6 +200,7 @@ class ProctorSession:
                 "subject": self.config.subject,
                 "duration_minutes": self.config.duration_minutes,
                 "session_dir": str(self.session_dir),
+                "started_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             }
         )
         print("\nRésumé session:")
