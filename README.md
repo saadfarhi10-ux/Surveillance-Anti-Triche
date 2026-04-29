@@ -16,8 +16,8 @@ Application locale Python pour surveiller un examen pratique via webcam pendant 
 
 ## Prerequis
 
-- Python 3.11 recommande pour cet environnement Windows
-- Webcam fonctionnelle
+- Python 3.11 recommande pour cet environnement Windows.
+- Webcam fonctionnelle.
 
 ## Installation
 
