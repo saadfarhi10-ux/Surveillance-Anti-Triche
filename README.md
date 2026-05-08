@@ -8,7 +8,7 @@ L’étudiant peut donc continuer à travailler normalement sur son énoncé PDF
 
 ## 🎯 Objectif du projet
 
-L’objectif est de proposer un outil simple d’aide à la surveillance pendant les examens pratiques. Le système ne remplace pas le professeur et ne prend aucune décision de sanction. Il enregistre seulement des alertes et des preuves visuelles que l’enseignant peut consulter après l’examen.
+L’objectif est de proposer un outil simple d’aide à la surveillance pendant les examens pratiques. Le système ne remplace pas le professeur et ne prend aucune décision de sanction. Il enregistre seulement des alertes et des preuves visuelles que l’enseignant peut consulter après l’examen
 
 Le prototype permet principalement de détecter :
 
